@@ -16,4 +16,6 @@ All of the files enclosed in the repo are titled very specifically! You MUST fol
 - AC/MAIN = Denotes accent color or main color
 - 0X = Quantity of that model
 
+### Example: Beam_R_STR_NOSUP_MAIN_4X.stl
+This would denote a part that requires the high stength print profile and doesn't require support. Additionally, it is the main filament color of your choosing and you need to print four of them to satisfy this items requirement.
 
