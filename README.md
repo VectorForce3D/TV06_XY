@@ -6,7 +6,7 @@ The Terminal Velocity 06 project is a conversion project aimed at bringing high 
 ![TV06](https://github.com/VectorForce3D/TV06_XY/assets/106216750/80673643-2983-474b-b635-3759a9852d45)
 
 ## File Nomenclature: A warning!
-All of the files enclosed in the repo are title very specifically! You MUST follow the instructions in each items title to achieve proper results. Failing to do so is likely to result in lots of failed prints and borken parts. 
+All of the files enclosed in the repo are titled very specifically! You MUST follow the instructions in each items title to achieve proper results. Failing to do so is likely to result in lots of failed prints and broken parts. 
 
 ### Key:
 - STR = High strength profile; 3 walls @ 150% line width, 25% gyroid infill, 3 tops and bottoms, 0.4 nozzle is reccommended for proper fitment
