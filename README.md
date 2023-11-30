@@ -6,9 +6,10 @@ All of the files enclosed in the repo are title very specifically! You MUST foll
 
 ### Key:
 STR = High strength profile; 3 walls @ 150% line width, 25% gyroid infill, 3 tops and bottoms, 0.4 nozzle is reccommended for proper fitment
+
 STD = Standard profile; print at your standard settings
-SUP = Enable Supports; we are doing our best to eliminate supports but are not quite there yet \n
-NOSUP = Turn supports off n\
+SUP = Enable Supports; we are doing our best to eliminate supports but are not quite there yet 
+NOSUP = Turn supports off 
 0X = Quantity of that model
 AC/MAIN = Denotes accent color or main color
 
