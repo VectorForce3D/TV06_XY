@@ -1,0 +1,6 @@
+site_name: TV06
+
+nav:
+  - Home: index.md
+  - About: about.md
+theme: material
