@@ -8,7 +8,14 @@ The Terminal Velocity 06 project is a conversion project aimed at bringing high 
 
 ???+ warning File Nomenclature: A warning!
 
-All of the files enclosed in the repo are titled very specifically! You MUST follow the instructions in each items title to achieve proper results. Failing to do so is likely to result in lots of failed prints and broken parts.
+    All of the files enclosed in the repo are titled very specifically! You MUST follow the instructions in each items title to achieve proper results. Failing to do so is likely to result in lots of failed       
+    prints and broken parts.
+
+???+ note
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
 
 ### Key:
 
