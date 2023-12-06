@@ -36,4 +36,9 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/xVtU45zTrk
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 repo_url: https://github.com/VectorForce3D/TV06_XY
