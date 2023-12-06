@@ -7,6 +7,17 @@ nav:
 theme:
   language: en
   name: material
+  features: 
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
