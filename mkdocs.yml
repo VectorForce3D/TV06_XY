@@ -31,5 +31,9 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/xVtU45zTrk
 
 repo_url: https://github.com/VectorForce3D/TV06_XY
