@@ -1,4 +1,4 @@
-# TV06_XY
+# TV06 CoreXY Conversion
 
 ## A CoreXY conversion for the Sovol SV06 designed by Dustmuffins and Ghoste
 
