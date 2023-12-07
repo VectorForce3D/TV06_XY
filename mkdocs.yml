@@ -2,7 +2,11 @@ site_name: TV06 CoreXY
 
 nav:
   - Home: index.md
-  - About: about.md
+  - First Steps: about.md
+  - Frame: frame.md
+  - Gantry: gantry.md
+  - Electronics: electronics.md
+  - Finalle: final.md
 
 theme:
   language: en
