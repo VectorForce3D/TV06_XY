@@ -24,6 +24,6 @@ We can not stress this enough; ASA is the material of choice for this machine. A
 
 !!! danger Do not cut corners
 
-    The above information is all to be followed to the letter. Do not risk damage to machine, property, or personal injury because you wanted to save a relatively insignificant amount of money by purchasing PLA, PETG, or not printing the parts at proper strength settings. These will all come back to haunt you down the road and will significantly impact the longevity and performance of your machine.
+    The above information is all to be followed to the letter. Do not risk damage to machine, property, or personal injury because you wanted to save a relatively insignificant amount of money by purchasing PLA, PETG, or not printing the parts at proper strength settings. Additionally, do not purchase white ASA or ABS from any brand. The pigment contains titanium dioxide is known to weaken plastics severely. In conjunction with this, avoid eSun ABS+ for similar reasons. These will all come back to haunt you down the road and will significantly impact the longevity and performance of your machine.
 
     It is not worth the risk.
