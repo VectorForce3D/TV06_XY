@@ -10,13 +10,20 @@ The TV06 was designed by Dustmuffins and Ghoste of the TV06 Discord Server. We w
 
      While the TV06 Project aims to incorporate as many parts from the original SV06 line of machines, there are some compromises that must be made. There will be some components that will need to be cut to properly execute this modification. Namely, rods and leadscrews will be cut. The frame is also comprised of new metal mostly and you will need to be comfortable operating a metal saw. If you are not, please contact our help-desk channel in the discord and someone will assist you.
 
-## Our predecessor 
+## A Thank you to our predecessor 
 
-The TV06 project would not be where it is today without the initial time investments of the ![ProosaXY](https://www.printables.com/model/518614-proosaxy-mk3s-to-corexy-conversion)
+The TV06 project would not be where it is today without the initial time investments of the ![ProosaXY](https://www.printables.com/model/518614-proosaxy-mk3s-to-corexy-conversion). We would like to thank Chip for their incredible work and inspiring us to make this project. 
+
+Thank You
+- TV06 Team
 
 ## Support Us!
 
 
+
+## Let's get started!
+
+We're just as excited as you to get this build underway. We thank you for showing interest in our hardwork and without further ado, Let's Go!
 
 ### Key:
 
