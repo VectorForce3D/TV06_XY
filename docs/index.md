@@ -1,15 +1,22 @@
 # TV06 CoreXY Conversion
 
-## A CoreXY conversion for the Sovol SV06 designed by Dustmuffins and Ghoste
-
 The Terminal Velocity 06 project is a conversion project aimed at bringing high speeds to SV06 3D printer owners. Originally developed as a branch of the ProosaXY, the TV06 has taken on a fully unique form now as it moves into the Beta testing stage. The goal of the machine is simple; 10k acceleration and 250mm/s print speeds at quality.
 
 ![TV06Transparent](https://github.com/VectorForce3D/TV06_XY/assets/106216750/b8cc3011-0186-4e5d-9deb-f67b03b5f389)
 
-???+ warning File Nomenclature
+The TV06 was designed by Dustmuffins and Ghoste of the TV06 Discord Server. We welcome all to our community and invite you to join using the discord icon at the bottom of this page.
 
-    All of the files enclosed in the GitHub are titled very specifically! You MUST follow the instructions in each items title to achieve proper results. Failing to do so is likely to result in lots of failed     
-    prints and broken parts.
+???+ warning Irreversible Alterations
+
+     While the TV06 Project aims to incorporate as many parts from the original SV06 line of machines, there are some compromises that must be made. There will be some components that will need to be cut to properly execute this modification. Namely, rods and leadscrews will be cut. The frame is also comprised of new metal mostly and you will need to be comfortable operating a metal saw. If you are not, please contact our help-desk channel in the discord and someone will assist you.
+
+## Our predecessor 
+
+The TV06 project would not be where it is today without the initial time investments of the ![ProosaXY](https://www.printables.com/model/518614-proosaxy-mk3s-to-corexy-conversion)
+
+## Support Us!
+
+
 
 ### Key:
 
