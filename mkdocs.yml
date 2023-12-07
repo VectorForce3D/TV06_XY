@@ -14,6 +14,11 @@ theme:
   features: 
     - navigation.tabs
     - navigation.sections
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.expand
+    - navigation.path
     - toc.integrate
     - navigation.top
     - search.suggest
