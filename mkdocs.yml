@@ -41,5 +41,6 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
 
 repo_url: https://github.com/VectorForce3D/TV06_XY
