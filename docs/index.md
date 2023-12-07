@@ -6,7 +6,7 @@ The Terminal Velocity 06 project is a conversion project aimed at bringing high 
 
 The TV06 was designed by Dustmuffins and Ghoste of the TV06 Discord Server. We welcome all to our community and invite you to join using the discord icon at the bottom of this page.
 
-???+ warning Irreversible Alterations
+???+ warning "Irreversible Alterations"
 
      The TV06 Project seeks to integrate numerous components from the original SV06 machine line, but certain compromises are unavoidable. Specifically, some elements, such as rods and leadscrews, will be cut during the modification process. The frame predominantly consists of new metal, and proficiency in using a metal saw is essential. If you lack experience in operating a metal saw, please reach out to our help-desk channel on [Discord](https://discord.gg/xVtU45zTrk), and someone will help you out.
 
