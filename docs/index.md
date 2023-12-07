@@ -4,7 +4,7 @@ The Terminal Velocity 06 project is a conversion project aimed at bringing high 
 
 ![TV06Transparent](https://github.com/VectorForce3D/TV06_XY/assets/106216750/b8cc3011-0186-4e5d-9deb-f67b03b5f389)
 
-The TV06 was designed by Dustmuffins and Ghoste of the TV06 Discord Server. We welcome all to our community and invite you to join using the discord icon at the bottom of this page.
+The TV06 was designed by Dustmuffins and Ghoste of the TV06 Discord Server. We welcome all to our community and invite you to join our wonderful [community!](https://discord.gg/xVtU45zTrk).
 
 ???+ warning "Irreversible Alterations"
 
