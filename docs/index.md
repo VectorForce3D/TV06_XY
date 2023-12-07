@@ -27,4 +27,4 @@ We couldn't do this without the love and support of our dedicated community! Whi
 
 We're just as excited as you to get this build underway. We thank you for showing interest in our hardwork and without further ado, Let's Go!
 
-[I'm Ready!](about.md){ .md-button }
+[I'm Ready!](about.md){ .md-button .md-button--primary }
