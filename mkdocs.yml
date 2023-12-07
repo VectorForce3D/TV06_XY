@@ -46,5 +46,6 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
+  - tables
 
 repo_url: https://github.com/VectorForce3D/TV06_XY
