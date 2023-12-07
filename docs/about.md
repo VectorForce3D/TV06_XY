@@ -1,4 +1,4 @@
-# Getting Started
+# First Steps
 
 The first step to getting going with this build is understanding the file name nomenclature. We have specifically encoded every file with a set of identifiers to ensure you print everything properly and in the correct color. We all know aesthetics are more important than function! Right?
 
