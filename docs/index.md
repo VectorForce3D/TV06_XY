@@ -12,14 +12,15 @@ The TV06 was designed by Dustmuffins and Ghoste of the TV06 Discord Server. We w
 
 ## A Thank you to our predecessor 
 
-The TV06 project would not be where it is today without the initial time investments of the ![ProosaXY](https://www.printables.com/model/518614-proosaxy-mk3s-to-corexy-conversion). We would like to thank Chip for their incredible work and inspiring us to make this project. 
+The TV06 project would not be where it is today without the initial time investments of the [ProosaXY](https://www.printables.com/model/518614-proosaxy-mk3s-to-corexy-conversion). We would like to thank Chip for their incredible work and inspiring us to make this project. 
 
 Thank You
 - TV06 Team
 
 ## Support Us!
 
-
+We couldn't do this without the love and support of our dedicated community! While we will never ask, donations are greatly accepeted and go directly to the TV06 project and furthering its development.
+[Buy us a KoFi!](https://ko-fi.com/dustmuffins){ .md-button }
 
 ## Let's get started!
 
