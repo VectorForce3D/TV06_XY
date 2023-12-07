@@ -13,6 +13,7 @@ We all know aesthetics are more important than function! Right?
 | `NOSUP`     |     Turn supports off |
 | `AC/MAIN`   |      Denotes accent color or main color |
 | `#X`        |     Quantity |
+| `File` | [stl file](https://github.com/VectorForce3D/TV06_XY/blob/main/STL/Frame/FrameBrace_STR_NOSUP_MIXED_2X.STL) |
 
 ???+ info "High Strength vs Standard Strength"
 
