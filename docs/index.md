@@ -8,7 +8,7 @@ The TV06 was designed by Dustmuffins and Ghoste of the TV06 Discord Server. We w
 
 ???+ warning Irreversible Alterations
 
-     While the TV06 Project aims to incorporate as many parts from the original SV06 line of machines, there are some compromises that must be made. There will be some components that will need to be cut to properly execute this modification. Namely, rods and leadscrews will be cut. The frame is also comprised of new metal mostly and you will need to be comfortable operating a metal saw. If you are not, please contact our help-desk channel in the discord and someone will assist you.
+     The TV06 Project seeks to integrate numerous components from the original SV06 machine line, but certain compromises are unavoidable. Specifically, some elements, such as rods and leadscrews, will be cut during the modification process. The frame predominantly consists of new metal, and proficiency in using a metal saw is essential. If you lack experience in operating a metal saw, please reach out to our help-desk channel on [Discord](https://discord.gg/xVtU45zTrk), and someone will help you out.
 
 ## A Thank you to our predecessor 
 
@@ -20,6 +20,7 @@ Thank You
 ## Support Us!
 
 We couldn't do this without the love and support of our dedicated community! While we will never ask, donations are greatly accepeted and go directly to the TV06 project and furthering its development.
+
 [Buy us a KoFi!](https://ko-fi.com/dustmuffins){ .md-button }
 
 ## Let's get started!
