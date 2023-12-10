@@ -3,6 +3,9 @@ site_name: TV06 CoreXY
 nav:
   - Home: index.md
   - First Steps: about.md
+  - Section:
+    - buildguide/index.md
+    - Page 1: buildguide/toolhead.md
   - Toolhead: toolhead.md
   - Frame: frame.md
   - Gantry: gantry.md
