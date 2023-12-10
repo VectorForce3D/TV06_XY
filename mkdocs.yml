@@ -32,6 +32,8 @@ theme:
     - content.code.copy
     - navigation.footer
   language: en
+  font:
+    text: Roboto
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
