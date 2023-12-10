@@ -3,6 +3,7 @@ site_name: TV06 CoreXY
 nav:
   - Home: index.md
   - First Steps: about.md
+  - Toolhead: toolhead.md
   - Frame: frame.md
   - Gantry: gantry.md
   - Electronics: electronics.md
