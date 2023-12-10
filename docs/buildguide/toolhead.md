@@ -5,13 +5,13 @@ The SV06 is known for it's superior extrusion quality and compact size. We decid
 | Item | Name | Quantity | Printable |
 | 1 | SV06 Stock Extruder | 1 | No |
 | 2 | [BackBeltPlate_STR_NOSUP_ANY_1X.stl](https://github.com/VectorForce3D/TV06_XY/raw/main/STL/Toolhead/BackBeltPlate_STR_NOSUP_ANY_1X.stl) | 1 | Yes |
-| 3 |  |  |  |
-| 4 |  |  |  |
-| 5 |  |  |  |
-| 6 |  |  |  |
-| 7 |  |  |  |
-| 8 |  |  |  |
-| 9 |  |  |  |
+| 3 | [Double5015Mount_STD_NOSUP_MAIN_1X.stl](https://github.com/VectorForce3D/TV06_XY/raw/main/STL/Toolhead/Double5015Mount_STD_NOSUP_MAIN_1X.stl) | 1 | Yes |
+| 4 | MGN9H 300mm | 1 | No |
+| 5 | [ExtruderMount_STR_SUP_MAIN_1X.stl](https://github.com/VectorForce3D/TV06_XY/raw/main/STL/Toolhead/ExtruderMount_STR_SUP_MAIN_1X.stl) | 1 | Yes |
+| 6 | [FrontBeltPlate_STR_NOSUP_AC_1X.stl](https://github.com/VectorForce3D/TV06_XY/raw/main/STL/Toolhead/FrontBeltPlate_STR_NOSUP_AC_1X.stl) | 1 | Yes |
+| 7 | [MonolithicRailMount_STR_NOSUP_AC_1X.stl](https://github.com/VectorForce3D/TV06_XY/raw/main/STL/Toolhead/MonolithicRailMount_STR_NOSUP_AC_1X.stl) | 1 | Yes |
+| 8 | [StockNozzleAirDuct_STD_NOSUP_MAIN_1X.stl](https://github.com/VectorForce3D/TV06_XY/raw/main/STL/Toolhead/StockNozzleAirDuct_STD_NOSUP_MAIN_1X.stl) | 1 | Yes |
+| 9 | Assorted M3 Screws | ... | No |
 
 
 ## Assembly Guide
