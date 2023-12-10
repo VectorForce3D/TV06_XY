@@ -3,7 +3,7 @@ The SV06 is known for it's superior extrusion quality and compact size. We decid
 ![Toolheadfixed](https://github.com/VectorForce3D/TV06_XY/assets/106216750/8c5dffaa-8c79-4f57-90b3-c0b517738253)
 ## Bill of Materials
 | Item        | Name | Quantity | Printable |
-| :---------: | :--: | :--: | :--: |
+| :---------: | ---- | :--: | ---- |
 | `1` | SV06 Stock Extruder | 1 | No |
 | `2` | [BackBeltPlate_STR_NOSUP_ANY_1X.stl](https://github.com/VectorForce3D/TV06_XY/raw/main/STL/Toolhead/BackBeltPlate_STR_NOSUP_ANY_1X.stl) | 1 | Yes |
 | `3` | [Double5015Mount_STD_NOSUP_MAIN_1X.stl](https://github.com/VectorForce3D/TV06_XY/raw/main/STL/Toolhead/Double5015Mount_STD_NOSUP_MAIN_1X.stl) | 1 | Yes |
