@@ -3,14 +3,15 @@ site_name: TV06 CoreXY
 nav:
   - Home: index.md
   - First Steps: about.md
-  - Section:
+  - Build Guide:
     - buildguide/index.md
-    - Page 1: buildguide/toolhead.md
-  - Toolhead: toolhead.md
-  - Frame: frame.md
-  - Gantry: gantry.md
-  - Electronics: electronics.md
-  - Finalle: final.md
+    - Toolhead: buildguide/toolhead.md
+    - Frame: buildguide/frame.md
+    - Gantry Mounting: buildguide/gantry.md
+    - Electronics: buildguide/electronics.md
+    - Enclosure: buildguide/enclosure.md
+    - Finishing Touches: buildguide/finish.md
+  - Sourcing Guide: sourcing.md
 
 theme:
   language: en
