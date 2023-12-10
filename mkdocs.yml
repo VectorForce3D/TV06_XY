@@ -56,5 +56,9 @@ markdown_extensions:
   - pymdownx.superfences
   - attr_list
   - tables
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  
 
 repo_url: https://github.com/VectorForce3D/TV06_XY
