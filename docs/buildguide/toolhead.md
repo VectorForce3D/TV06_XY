@@ -1,5 +1,6 @@
 ## What's new?
 The SV06 is known for it's superior extrusion quality and compact toolhead size. We reused the stock toolhead with some modified parts to ensure that we brought this pedigree of perfection over to our machine. Namely, a major cooling upgrade was due for these increased speeds.
+
 ![Toolheadfixed](https://github.com/VectorForce3D/TV06_XY/assets/106216750/8c5dffaa-8c79-4f57-90b3-c0b517738253)
 ## Bill of Materials
 === "Dual 5015"
