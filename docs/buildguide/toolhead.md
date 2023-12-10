@@ -3,6 +3,7 @@ The SV06 is known for it's superior extrusion quality and compact size. We decid
 ![Toolheadfixed](https://github.com/VectorForce3D/TV06_XY/assets/106216750/8c5dffaa-8c79-4f57-90b3-c0b517738253)
 ## Bill of Materials
 === "Dual 5015"
+
     | Item        | Name | Quantity | Printable |
     | :---------: | ---- | :--: | ---- |
     | `1` | SV06 Stock Extruder | 1 | No |
@@ -20,6 +21,7 @@ The SV06 is known for it's superior extrusion quality and compact size. We decid
     | `13` | GDSTime 5015 12v Blower | 2 | No |
 
 === "4028 Radial Fan"
+
     | Item        | Name | Quantity | Printable |
     | :---------: | ---- | :--: | ---- |
     | `1` | SV06 Stock Extruder | 1 | No |
