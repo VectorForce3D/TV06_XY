@@ -4,7 +4,6 @@ nav:
   - Home: index.md
   - First Steps: about.md
   - Build Guide:
-    - buildguide/index.md
     - Toolhead: buildguide/toolhead.md
     - Frame: buildguide/frame.md
     - Gantry Mounting: buildguide/gantry.md
