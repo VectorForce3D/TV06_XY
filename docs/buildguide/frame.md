@@ -1,6 +1,10 @@
 ## Frame Design
 We designed our frame to not require brackets or esoteric corner brackets. Instead, blind joints were chosen due to their overall extreme strength and rigidity. Overall however, their price was the msot attractive feature. A low cost, high strength option.
 
+???+ warning "Buy The Right Extrusion!"
+
+    Not all aluminum extrusion is created equally. Check your suppliers profile dimensions for the inner circular whole diameter. This MUST be smaller than 5mm so that we are able to tap the whole for an M5 thread which is about 4.8mm wide. 4.2mm hole is the prefered outer diameter of the center hole.
+
 ## Bill of Materials
 === "Carbon X Gantry"
 
@@ -19,11 +23,6 @@ We designed our frame to not require brackets or esoteric corner brackets. Inste
     | `2` | 330mm 2020 Extrusion | 3 |
     | `3` | M5x10 Button Head | 20 |
     | `4` | 340mm 2020 Extrusion | 1 |
-
-???+ warning "Buy The Right Extrusion!"
-
-    Not all aluminum extrusion is created equally. Check your suppliers profile dimensions for the inner circular whole diameter. This MUST be smaller than 5mm so that we are able to tap the whole for an M5 thread which is about 4.8mm wide. 4.2mm hole is the prefered outer diameter of the center hole.
-
 
 ???+ info "Carbon or 2020 X Gantry?"
 
