@@ -5,7 +5,8 @@
     | :---: | :---: | :----: |
     | `1` | 400mm 2020 Extrusion | 10 |
     | `2` | 330mm 2020 Extrusion | 3 |
-    | `3` | 338mm Mellow Carbon Tube | 1 |
+    | `3` | M5x10 Button Head | 20 |
+    | `4` | 338mm Mellow Carbon Tube | 1 |
     
 === "2020 X Gantry"
 
@@ -13,7 +14,8 @@
     | :---: | :---: | :----: |
     | `1` | 400mm 2020 Extrusion | 10 |
     | `2` | 330mm 2020 Extrusion | 3 |
-    | `3` | 340mm 2020 Extrusion | 1 |
+    | `3` | M5x10 Button Head | 20 |
+    | `4` | 340mm 2020 Extrusion | 1 |
 
 ???+ warning "Buy The Right Extrusion!"
 
