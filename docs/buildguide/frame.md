@@ -1,3 +1,6 @@
+## Frame Design
+We designed our frame to not require brackets or esoteric corner brackets. Instead, blind joints were chosen due to their overall extreme strength and rigidity. Overall however, their price was the msot attractive feature. A low cost, high strength option.
+
 ## Bill of Materials
 === "Carbon X Gantry"
 
