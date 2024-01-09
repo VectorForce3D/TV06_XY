@@ -10,20 +10,24 @@ We created our frame to be simple and straightforward, eliminating the need for 
 
     | Item | Name | Quantity |
     | :---: | :---: | :----: |
-    | `1` | 400mm 2020 Extrusion | 10 |
+    | `1` | 400mm 2020 Extrusion | 8 |
     | `2` | 330mm 2020 Extrusion | 3 |
-    | `3` | M5x10 Button Head | 20 |
-    | `4` | 338mm Mellow Carbon Tube | 1 |
+    | `3` | 310mm 2020 Extrusion | 2 |
+    | `4` | 370mm 2020 Extrusion | 2 |
+    | `5` | M5x8 Button Head | 26 |
+    | `6` | 338mm Mellow Carbon Tube | 1 |
     
 === "2020 X Gantry"
 
     | Item | Name | Quantity |
     | :---: | :---: | :----: |
-    | `1` | 400mm 2020 Extrusion | 10 |
+    | `1` | 400mm 2020 Extrusion | 8 |
     | `2` | 330mm 2020 Extrusion | 3 |
-    | `3` | M5x10 Button Head | 20 |
-    | `4` | 340mm 2020 Extrusion | 1 |
+    | `3` | 310mm 2020 Extrusion | 2 |
+    | `4` | 370mm 2020 Extrusion | 2 |
+    | `5` | M5x8 Button Head | 26 |
+    | `6` | 340mm 2020 Extrusion NO GROOVE | 1 |
 
 ???+ info "Carbon or 2020 X Gantry?"
 
-    As of right now, we recommend everyone purchase the carbon gantry. While it does add costs, it is currently the only supported method for mounting the required MGN9 rail. We are working to remedy this as soon as possible to make sure that the 2020 X gantry option is viable.
+    As of right now, we recommend everyone purchase the carbon gantry. While it does add costs, it will offer the best results. The 2020 Extrusion gantry must be made with extrusion that matches the pattern of the Misumi HFSB2-2020. Most other profiles will be incompatible. 
