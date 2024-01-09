@@ -30,4 +30,4 @@ We created our frame to be simple and straightforward, eliminating the need for 
 
 ???+ info "Carbon or 2020 X Gantry?"
 
-    As of right now, we recommend everyone purchase the carbon gantry. While it does add costs, it will offer the best results. The 2020 Extrusion gantry must be made with extrusion that matches the pattern of the Misumi HFSB2-2020. Most other profiles will be incompatible. 
+    As of right now, we recommend everyone purchase the carbon gantry. While it does add costs, it will offer the best results. The 2020 Extrusion gantry must be made with extrusion that matches the pattern of the Misumi HFSB2-2020. Most other profiles will be incompatible. A possible alternative to both that could very well be considerably cheaper is a 20x20x400mm aluminum square tube, however this is untested and you will be on your own when it comes to drilling and mounting though one could imitate a Vz Carbon Gantry which has 16mm oncenter holes. 
