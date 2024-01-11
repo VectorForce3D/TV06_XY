@@ -9,7 +9,7 @@ This sourcing guide is a living, breathing document and should be viewed as such
 | `Frame` | 310mm 2020 Extrusion | 2 |
 | `Frame` | 370mm 2020 Extrusion | 2 |
 | `Frame` | 338mm Mellow Carbon Tube | 1 |
-| `Or` | ---------------- | ------------ |
+| `Or` |
 | `Frame` | 340mm 2020 Misumi Profile | 1 |
 | `-----` | ---------------------- | -- | ----------------- | ----------------- | ----------------- |
 | `Hardware` | M5x8 Button Head | 26 |
