@@ -15,6 +15,4 @@ This sourcing guide is a living, breathing document and should be viewed as such
 | `Hardware` | M5x8 Button Head | 32 |
 | `Hardware` | M5x20 Button Head | 2 |
 
-<div style="text-align: center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRDuzh9zTTb0Dr3VAwCe3eVq7Pyc6kqRn8ZqNsRaBrNnAQ9p_Byug8odcZ4Mtml6v6jA4KULE2Pz__y/pubhtml"></iframe></div>
-
-
+<div style="text-align: center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRDuzh9zTTb0Dr3VAwCe3eVq7Pyc6kqRn8ZqNsRaBrNnAQ9p_Byug8odcZ4Mtml6v6jA4KULE2Pz__y/pubhtml;headers=false" frameborder="0" width="100%" height="100%" scrolling="no"></iframe></div>
