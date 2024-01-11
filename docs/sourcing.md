@@ -12,4 +12,5 @@ This sourcing guide is a living, breathing document and should be viewed as such
 | `Frame` | `OR` |
 | `Frame` | 340mm 2020 Misumi Profile | 1 |
 | `-----` | ---------------------- | -- | ----------------- | ----------------- | ----------------- |
-| `Hardware` | M5x8 Button Head | 26 |
+| `Hardware` | M5x8 Button Head | 32 |
+| `Hardware` | M5x20 Button Head | 2 |
