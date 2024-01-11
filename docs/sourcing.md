@@ -3,7 +3,7 @@ This sourcing guide is a living, breathing document and should be viewed as such
 
 
 | Category | Part | Quantity | Link 1 | Link 2 | Description |
-| ---: | ---: | :----: | ---: | ---: | ---: |
+| :--- | :--- | :----: | :--- | :--- | :--- |
 | `1` | 400mm 2020 Extrusion | 8 |
 | `2` | 330mm 2020 Extrusion | 3 |
 | `3` | 310mm 2020 Extrusion | 2 |
