@@ -6,13 +6,11 @@
 ## Bill of Materials
    | Item | Name | Quantity |
    | :---: | :---: | :----: |
-   | `1` | 400mm 2020 Extrusion | 9 |
-   | `2` | 330mm 2020 Extrusion | 4 |
-  | `3` | 310mm 2020 Extrusion | 2 |
-  | `4` | 500mm 2020 Extrusion | 2 |
-   | `5` | 370mm 2020 Extrusion | 2 |
-   | `6` | 200mm 2020 Extrusion | 2 |
-  | `7` | 338mm Mellow Carbon Tube | 1 |
-  | `8` | M5x8 Button Head | 30 |
-  | `9` | M5x20 Button Head | 4 |
-   | `10` | M4x8 Socket Head Cap | 4 |
+   | `1` | M3x8 SHCS | 27 |
+   | `2` | M3x10 SHCS | 12 |
+  | `3` | M3x12 SHCS | 8 |
+  | `4` | PanelClamp.stl | 27 |
+   | `5` | Enclosure Door | 2 |
+   | `6` | Enclosure Side Panel | 2 |
+  | `7` | Enclosure Top Panel | 1 |
+  | `8` | Enclosure Rear Panel | 1 |
