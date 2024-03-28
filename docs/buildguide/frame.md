@@ -10,21 +10,25 @@ We created our frame to be simple and straightforward, eliminating the need for 
 
     | Item | Name | Quantity |
     | :---: | :---: | :----: |
-    | `1` | 400mm 2020 Extrusion | 8 |
-    | `2` | 330mm 2020 Extrusion | 3 |
+    | `1` | 400mm 2020 Extrusion | 9 |
+    | `2` | 330mm 2020 Extrusion | 4 |
     | `3` | 310mm 2020 Extrusion | 2 |
-    | `4` | 370mm 2020 Extrusion | 2 |
-    | `5` | M5x8 Button Head | 26 |
-    | `6` | 338mm Mellow Carbon Tube | 1 |
+    | `4` | 500mm 2020 Extrusion | 2 |
+    | `5` | 370mm 2020 Extrusion | 2 |
+    | `6` | 200mm 2020 Extrusion | 2 |
+    | `7` | M5x8 Button Head | 26 |
+    | `8` | 338mm Mellow Carbon Tube | 1 |
     
 === "2020 X Gantry"
 
     | Item | Name | Quantity |
     | :---: | :---: | :----: |
-    | `1` | 400mm 2020 Extrusion | 8 |
-    | `2` | 330mm 2020 Extrusion | 3 |
+     | `1` | 400mm 2020 Extrusion | 9 |
+    | `2` | 330mm 2020 Extrusion | 4 |
     | `3` | 310mm 2020 Extrusion | 2 |
-    | `4` | 370mm 2020 Extrusion | 2 |
+    | `4` | 500mm 2020 Extrusion | 2 |
+    | `5` | 370mm 2020 Extrusion | 2 |
+    | `6` | 200mm 2020 Extrusion | 2 |
     | `5` | M5x8 Button Head | 26 |
     | `6` | 340mm 2020 Extrusion NO GROOVE | 1 |
 
