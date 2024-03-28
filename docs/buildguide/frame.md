@@ -18,8 +18,10 @@ We created our frame to be simple and straightforward, eliminating the need for 
     | `4` | 500mm 2020 Extrusion | 2 |
     | `5` | 370mm 2020 Extrusion | 2 |
     | `6` | 200mm 2020 Extrusion | 2 |
-    | `7` | M5x8 Button Head | 26 |
-    | `8` | 338mm Mellow Carbon Tube | 1 |
+    | `7` | 338mm Mellow Carbon Tube | 1 |
+    | `8` | M5x8 Button Head | 30 |
+    | `9` | M5x20 Button Head | 4 |
+    | `10` | M4x8 Socket Head Cap | 4 |
     
 === "Alu Tube X Gantry"
 
@@ -31,8 +33,10 @@ We created our frame to be simple and straightforward, eliminating the need for 
     | `4` | 500mm 2020 Extrusion | 2 |
     | `5` | 370mm 2020 Extrusion | 2 |
     | `6` | 200mm 2020 Extrusion | 2 |
-    | `5` | M5x8 Button Head | 26 |
-    | `6` | 300mm 20mm 2mm Wall Aluminum Square Tube | 1 |
+    | `7` | 300mm 20mm 2mm Wall Aluminum Square Tube | 1 |
+    | `8` | M5x8 Button Head | 30 |
+    | `9` | M5x20 Button Head | 4 |
+    | `10` | M4x8 Socket Head Cap | 4 |
 
 ???+ info "Carbon or Alu X Gantry?"
 
