@@ -1,7 +1,8 @@
 ## Frame Design
 We created our frame to be simple and straightforward, eliminating the need for brackets or obscure corner attachments. Instead, we opted for blind joints because of their exceptional strength and rigidity. What sets them apart is not just their performance but also their affordability—a high-strength option at a low cost.
 
-![Frame](https://github.com/VectorForce3D/TV06_XY/assets/106216750/52d13d6b-ed95-4bbb-8f92-895395baaec7)
+
+![Frame](https://github.com/VectorForce3D/TV06_XY/assets/106216750/2df1f1e2-dfea-4595-a976-d7c925cfd8d5)
 
 
 ???+ warning "Buy The Right Extrusion!"
