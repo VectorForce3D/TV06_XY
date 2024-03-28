@@ -1,10 +1,6 @@
 ## Frame Design
 We created our frame to be simple and straightforward, eliminating the need for brackets or obscure corner attachments. Instead, we opted for blind joints because of their exceptional strength and rigidity. What sets them apart is not just their performance but also their affordability—a high-strength option at a low cost.
-
-
 ![Frame](https://github.com/VectorForce3D/TV06_XY/assets/106216750/2df1f1e2-dfea-4595-a976-d7c925cfd8d5)
-
-
 ???+ warning "Buy The Right Extrusion!"
 
     Not all aluminum extrusion is created equally. Check your suppliers profile dimensions for the inner circular whole diameter. This MUST be smaller than 5mm so that we are able to tap the whole for an M5 thread which is about 4.8mm wide. 4.2mm hole is the prefered outer diameter of the center hole.
