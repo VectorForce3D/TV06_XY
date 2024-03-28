@@ -1,6 +1,9 @@
 ## Frame Design
 We created our frame to be simple and straightforward, eliminating the need for brackets or obscure corner attachments. Instead, we opted for blind joints because of their exceptional strength and rigidity. What sets them apart is not just their performance but also their affordability—a high-strength option at a low cost.
 
+![Frame](https://github.com/VectorForce3D/TV06_XY/assets/106216750/52d13d6b-ed95-4bbb-8f92-895395baaec7)
+
+
 ???+ warning "Buy The Right Extrusion!"
 
     Not all aluminum extrusion is created equally. Check your suppliers profile dimensions for the inner circular whole diameter. This MUST be smaller than 5mm so that we are able to tap the whole for an M5 thread which is about 4.8mm wide. 4.2mm hole is the prefered outer diameter of the center hole.
@@ -19,7 +22,7 @@ We created our frame to be simple and straightforward, eliminating the need for 
     | `7` | M5x8 Button Head | 26 |
     | `8` | 338mm Mellow Carbon Tube | 1 |
     
-=== "2020 X Gantry"
+=== "Alu Tube X Gantry"
 
     | Item | Name | Quantity |
     | :---: | :---: | :----: |
@@ -30,8 +33,8 @@ We created our frame to be simple and straightforward, eliminating the need for 
     | `5` | 370mm 2020 Extrusion | 2 |
     | `6` | 200mm 2020 Extrusion | 2 |
     | `5` | M5x8 Button Head | 26 |
-    | `6` | 340mm 2020 Extrusion NO GROOVE | 1 |
+    | `6` | 300mm 20mm 2mm Wall Aluminum Square Tube | 1 |
 
-???+ info "Carbon or 2020 X Gantry?"
+???+ info "Carbon or Alu X Gantry?"
 
-    As of right now, we recommend everyone purchase the carbon gantry. While it does add costs, it will offer the best results. The 2020 Extrusion gantry must be made with extrusion that matches the pattern of the Misumi HFSB2-2020. Most other profiles will be incompatible. A possible alternative to both that could very well be considerably cheaper is a 20x20x400mm aluminum square tube, however this is untested and you will be on your own when it comes to drilling and mounting though one could imitate a Vz Carbon Gantry which has 16mm oncenter holes. 
+    As of right now, we recommend everyone purchase the carbon gantry. While it does add costs, it will offer the best results. There are also seperate Y Blocks that must be used to run the Alu gantry.
