@@ -10,7 +10,7 @@ Please feel free to join our ever growing community. There are lots of help reso
 https://discord.gg/thxyRm7x9U
 
 ## Documentation
-Under Construction: Coming Soon!
+[WIP](https://terminal-velocity-knowledge-base.gitbook.io/tv06)
 
 ## File Nomenclature: A warning!
 All of the files enclosed in the repo are titled very specifically! You MUST follow the instructions in each items title to achieve proper results. Failing to do so is likely to result in lots of failed prints and broken parts. 
